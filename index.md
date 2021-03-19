@@ -5,11 +5,11 @@ QQ：3479867064
 
 ## ↓以下为作品更新区域↓
 
-Azqs工具箱（搁置）：云更新服务器暂时下线   //*最新版本：1.1.6 (2020.11.6)*
+[Azqs工具箱（搁置）(可下载)](https://codeload.github.com/HakureiTree/Azqs-.exe/zip/refs/heads/main)：云更新服务器工作中！   //*最新版本：1.1.6 (2020.11.6)*
 
 ## ↓正在开发中的内容↓
 
-Lighter（搁置）：云更新服务器暂时下线   //*最新版本：(Developer) MusicTestVersion 1.0.2 fix3*
+Lighter（搁置）（未完成exe封装）：云更新服务器暂时下线   //*最新版本：(Developer) MusicTestVersion 1.0.2 fix3*
 
 未命名作品（文字向轻游戏）：云更新服务器部署准备中   //目前进度：为用户端部署云更新端口   //开发进度：02% 
 
