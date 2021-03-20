@@ -1,6 +1,6 @@
 # W欢迎来到博丽恋的工坊！
 
-###个人区
+### 个人区
 
 我在BiliBili的[个人主页](https://space.bilibili.com/106596319)
 
