@@ -24,7 +24,7 @@
 
 # 博丽-神主
 
-### [原作stg（部分）下载点这]()
+### [原作stg（部分）下载点这](https://codeload.github.com/HakureiTree/Hakurei-Zun/zip/refs/heads/main)
 
 ## 友情链接
 
